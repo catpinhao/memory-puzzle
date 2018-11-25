@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "file-loader": "^2.0.0",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "shuffle-array": "^1.0.1",
+    "url-loader": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
